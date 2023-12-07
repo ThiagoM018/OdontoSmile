@@ -1,0 +1,82 @@
+.bola{
+    height: 16px;
+    width: 16px;
+    background-color: #1B75BC;
+    border-radius: 100%;
+    position: relative;
+    bottom: -12px;
+}
+
+.txtGrad{
+    font-size: 50px;
+    color: #FFFFFF;
+    padding-left: 10%;
+    padding-top: 60px;
+    font-family: 'Anybody';
+}
+
+.txtGrad2{
+    font-size: 50px;
+    color: #FFFFFF;
+    padding-left: 10%;
+    font-family: 'Anybody';
+}
+
+#locIndex{
+    width: 600px; 
+    height: 100px; 
+    background-color: #FFFFFF; 
+    border-radius: 8px;
+    margin-left: 240px;
+}
+
+.labelLug{
+    color: #1B75BC;
+    font-family: 'Anybody';
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.textGIndx1{
+    font-family: 'Anybody';
+    font-size: 60px;
+    padding-left: 140px;
+    padding-top: 90px;
+}
+
+.btnAgendar{
+    background-color: #FFC01F; 
+    font-family: 'Anybody';
+    width: 250px;
+    height: 40px;
+    margin-left: 140px;
+    margin-top: 40px;
+    border: none;
+    border-radius: 10px;
+}
+
+.textVlAC{
+    font-family: 'Anybody';
+    font: italic;
+    font-size: 14px;
+    padding-left: 200px;
+    padding-top: 25px;
+}
+
+.txtgrad3{
+    font-size: 60px;
+    font-family: 'Anybody';
+    margin-left: 155px;
+    margin-top: 100px;
+}
+
+.link_rodape{
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.link_rodape:hover{
+    color: #FFC01F;
+}

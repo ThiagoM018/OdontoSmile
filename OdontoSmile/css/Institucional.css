@@ -1,0 +1,41 @@
+.ContInstitucional{
+    width: 100%;
+    height: 700px;
+    background-color: #1B75BC;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.CnteudoInst{
+    text-align: center;
+    display: flex;
+    width: 80%;
+    height: 80%;
+}
+
+.CnteudoInst > div {
+    flex: 1;
+    padding: 0;
+}
+
+.leftInst{
+    color: #FFFFFF;
+    font-family: 'Anybody';
+   
+}
+
+.leftInst > p{
+    font-style: italic;
+    text-align: left;
+}
+
+.leftInst > h1{
+    text-align: left;
+}
+
+.merchantInst{
+    height: 350px;
+    width: 100%;
+    background-color: #FFC01F;
+}
