@@ -3,7 +3,7 @@ Sistema Odontologico
 
 Site Para um Sistema de Marcaçao de Consulta para Clinica Odontologica
 
-!A OdontoSmile Nao é uma Empresa Real!!
+_A OdontoSmile Nao é uma Empresa Real!!_
 
 Feito em Funçao de Projeto da Faculdade.
 
