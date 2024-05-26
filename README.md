@@ -1,5 +1,5 @@
 # OdontoSmile
-*Sistema Odontologico*
+<strong>*Sistema Odontologico*</strong>
 
 Site Para um Sistema de Marcaçao de Consulta para Clinica Odontologica
 
